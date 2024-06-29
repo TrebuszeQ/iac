@@ -10,3 +10,6 @@
 [submodule "ansible"]
 	path = ansible
 	url = git@github.com:TrebuszeQ/ansible.git
+[submodule "terraform-aws"]
+	path = terraform-aws
+	url = git@github.com:TrebuszeQ/terraform-aws.git
