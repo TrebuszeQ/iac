@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configuration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dockerfiles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shell_scripting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform-aws" vcs="Git" />
+  </component>
+</project>

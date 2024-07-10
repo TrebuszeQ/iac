@@ -1,0 +1,18 @@
+[submodule "shell_scripting"]
+	path = shell_scripting
+	url = git@github.com:TrebuszeQ/shell_scripting.git
+[submodule "configuration"]
+	path = configuration
+	url = git@github.com:TrebuszeQ/configuration.git
+[submodule "dockerfiles"]
+	path = dockerfiles
+	url = git@github.com:TrebuszeQ/dockerfiles.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:TrebuszeQ/ansible.git
+[submodule "terraform-aws"]
+	path = terraform-aws
+	url = git@github.com:TrebuszeQ/terraform-aws.git
+[submodule "terraform-oci"]
+	path = terraform-oci
+	url = git@github.com:TrebuszeQ/terraform-oci.git
